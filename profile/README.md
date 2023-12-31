@@ -3,8 +3,8 @@
 
 
 ```markdown  
-Ferwin Lopez
-Fariz Ziyad
-Adithya Krishnan
-Nevia Sebastian
+F - Ferwin Lopez 
+F- Fariz Ziyad
+A - Adithya Krishnan
+N - Nevia Sebastian
 ```

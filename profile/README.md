@@ -4,7 +4,7 @@
 
 ```markdown  
 F - Ferwin Lopez 
-F- Fariz Ziyad
+F - Fariz Ziyad
 A - Adithya Krishnan
 N - Nevia Sebastian
 ```

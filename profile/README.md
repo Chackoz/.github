@@ -3,9 +3,9 @@
 
 
 # F^2 AN
-```markdown  
-F - Ferwin Lopez 
-F - Fariz Ziyad
+```markdown
 A - Adithya Krishnan
+F - Ferwin Lopez 
 N - Nevia Sebastian
+N - Nikita nair
 ```

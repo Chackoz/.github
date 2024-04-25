@@ -2,7 +2,7 @@
 
 
 
-# F^2 AN
+# FAN^2?
 ```markdown
 A - Adithya Krishnan
 F - Ferwin Lopez 
